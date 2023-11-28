@@ -8,20 +8,13 @@
   ],
   "heroes": [
     {
-      "id": "dc-batman",
-      "superhero": "Batman",
-      "publisher": "DC Comics",
-      "alter_ego": "Bruce Wayne",
-      "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
-    },
-    {
       "id": "dc-superman",
       "superhero": "Superman",
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": "https://i.etsystatic.com/12303878/r/il/80baeb/2753528464/il_570xN.2753528464_iedc.jpg"
     },
     {
       "id": "dc-flash",
